@@ -1,0 +1,19 @@
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion House Management System.csprojAssemblyReference.cache
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.LogIn.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Properties.Resources.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion House Management System.csproj.GenerateResource.cache
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion House Management System.csproj.CoreCompileInputs.cache
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\bin\Debug\Fashion House Management System.exe.config
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\bin\Debug\Fashion House Management System.exe
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\bin\Debug\Fashion House Management System.pdb
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion House Management System.exe
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion House Management System.pdb
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.AdminDashboard.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.EmployeeManagement.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.Categories.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.Customers.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.Products.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.Suppliers.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.WareHouse.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.Sales.resources
+E:\AIUB\Semester\7th Semester(Spring 20-21)\FinalTerm\ProjectOOP2\Fashion House Management System\Fashion House Management System\obj\Debug\Fashion_House_Management_System.Presentation_Layer.Invoice.resources
